@@ -1,3 +1,3 @@
 # git_test
 hello odin
-author = Adrija Paul
+author = Adrija Paul(me)
